@@ -39,6 +39,8 @@ RBF (Radial Basis Function), giriş ile belirli merkezler (mu) arasındaki mesaf
 **Test loss: 0.23, Test accuracy: 0.97**
 
 
+
+
 ## 💡 Not
 
 Bu proje yalnızca bir `.ipynb` (Jupyter Notebook) dosyası içermektedir. Harici bir `requirements.txt` dosyasına gerek yoktur.  
@@ -49,3 +51,14 @@ Gerekli kütüphaneler şunlardır:
 - `matplotlib`
 
 ---
+
+
+
+## 👨‍💻 Geliştirici
+
+**Teymur Mammadov** 
+
+
+
+
+
